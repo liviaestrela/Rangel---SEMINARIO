@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     
-    
+
 }
 body{
     background-image: url(fnaf.png);
@@ -29,4 +29,4 @@ header{
     border: 1px solid rgb(145, 255, 0);
     height:20vh ;
     width: 55vh;
-}
+} 
